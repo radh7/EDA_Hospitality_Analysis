@@ -1,37 +1,37 @@
-Exploratory Data Analysis (EDA) - Hospitality Analysis
+# Exploratory Data Analysis (EDA) - Hospitality Analysis
 
-Project Overview
+## Project Overview
 
 This project focuses on conducting an Exploratory Data Analysis (EDA) on a virtual hospitality dataset. The objective is to uncover insights, detect patterns, and visualize key metrics using Python libraries such as Pandas, Matplotlib, and Pyplot.
 
-Dataset Description
+## Dataset Description
 
 The dataset contains information related to hospitality services, including:
 
-Booking details
+- **Booking details/**
 
-Customer demographics
+- **Customer demographics/**
 
-Room preferences
+- **Room preferences/**
 
-Revenue trends
+- **Revenue trends/**
 
-Seasonal occupancy rates
+- **Seasonal occupancy rates/**
 
-Dependencies
+## Dependencies
 
 Ensure you have the following Python libraries installed before running the notebook:
 
-pip install pandas matplotlib
+1 **pip install pandas matplotlib**
 
 File Structure
-
+```bash
 |-- eda_hospitality_analysis.ipynb  # Jupyter Notebook for EDA
 |-- hospitality_dataset.csv         # Virtual dataset used for analysis
 |-- README.md                       # Project documentation
-
-Steps Performed
-
+```
+2. **Steps Performed**
+```bash
 Data Loading: Read the dataset using Pandas.
 
 Data Cleaning: Handle missing values and format inconsistencies.
@@ -53,16 +53,17 @@ Revenue distribution
 Room occupancy rates
 
 Customer demographics insights
+```
 
-Key Insights
+## Key Insights
 
-Identified seasonal trends affecting bookings and revenue.
+- **Identified seasonal trends affecting bookings and revenue./**
 
-Determined customer preferences for room types and pricing.
+- **Determined customer preferences for room types and pricing./**
 
-Analyzed factors influencing cancellations and customer retention.
+- **Analyzed factors influencing cancellations and customer retention./**
 
-How to Run
+## How to Run
 
 Open Jupyter Notebook:
 
@@ -70,7 +71,7 @@ jupyter notebook
 
 Run the eda_hospitality_analysis.ipynb file step by step.
 
-Conclusion
+## Conclusion
 
 This EDA provides valuable insights into hospitality trends, customer behavior, and business performance. Further analysis can include predictive modeling for revenue forecasting and customer retention strategies.
 
