@@ -9,13 +9,9 @@ This project focuses on conducting an Exploratory Data Analysis (EDA) on a virtu
 The dataset contains information related to hospitality services, including:
 
 - **Booking details/**
-
 - **Customer demographics/**
-
 - **Room preferences/**
-
 - **Revenue trends/**
-
 - **Seasonal occupancy rates/**
 
 ## Dependencies
@@ -31,45 +27,32 @@ File Structure
 |-- README.md                       # Project documentation
 ```
 2. **Steps Performed**
-```bash
-Data Loading: Read the dataset using Pandas.
 
-Data Cleaning: Handle missing values and format inconsistencies.
-
-Exploratory Analysis:
-
-Summary statistics
-
-Correlation analysis
-
-Customer segmentation
-
-Visualizations:
-
-Booking trends over time
-
-Revenue distribution
-
-Room occupancy rates
-
-Customer demographics insights
-```
+1. **Data Loading**: Read the dataset using Pandas.
+2. **Data Cleaning**: Handle missing values and format inconsistencies.
+3. **Exploratory Analysis**:
+  a. Summary statistics
+  b. Correlation analysis
+  c. Customer segmentation
+4. **Visualizations:**
+    a) Booking trends over time
+    b) Revenue distribution
+    c) Room occupancy rates
+   d) Customer demographics insights
 
 ## Key Insights
 
 - **Identified seasonal trends affecting bookings and revenue./**
-
 - **Determined customer preferences for room types and pricing./**
-
 - **Analyzed factors influencing cancellations and customer retention./**
 
 ## How to Run
 
-Open Jupyter Notebook:
-
+Open Jupyter Notebook: 
+```bash
 jupyter notebook
-
-Run the eda_hospitality_analysis.ipynb file step by step.
+```
+Run the ```bash eda_hospitality_analysis.ipynb``` file step by step.
 
 ## Conclusion
 
