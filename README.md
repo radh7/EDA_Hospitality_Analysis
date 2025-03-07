@@ -35,10 +35,10 @@ File Structure
   - Correlation analysis
   - Customer segmentation
 4. **Visualizations:**
-    - Booking trends over time
-    - Revenue distribution
-    - Room occupancy rates
-    - Customer demographics insights
+- Booking trends over time
+- Revenue distribution
+- Room occupancy rates
+- Customer demographics insights
 
 ## Key Insights
 
