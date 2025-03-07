@@ -31,14 +31,14 @@ File Structure
 1. **Data Loading**: Read the dataset using Pandas.
 2. **Data Cleaning**: Handle missing values and format inconsistencies.
 3. **Exploratory Analysis**:
-  a. Summary statistics
-  b. Correlation analysis
-  c. Customer segmentation
+  - Summary statistics
+  - Correlation analysis
+  - Customer segmentation
 4. **Visualizations:**
-    a) Booking trends over time
-    b) Revenue distribution
-    c) Room occupancy rates
-   d) Customer demographics insights
+    - Booking trends over time
+    - Revenue distribution
+    - Room occupancy rates
+    - Customer demographics insights
 
 ## Key Insights
 
